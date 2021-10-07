@@ -1,4 +1,5 @@
-SAMPLE CALCULATOR
+# SAMPLE CALCULATOR
+## Using HTML CSS & JavaScript
 
-First Project on HTML, CSS & JavaScript
+JavaScript Beginner!!
 
